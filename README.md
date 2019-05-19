@@ -13,8 +13,6 @@ Mobile Communications Networks  Project - 2018/2019
 
 Este projeto é referente ao desenvolvimento de um sistema real, baseado em Wireless LAN, que é capaz de detetar se os níveis de CO2 medidos ultrapassam um limite prejudicial para o ser humano. As ligações existentes, entre os vários componentes do sistema, são abrangidas por uma rede ad-hoc, e a informação recolhida é encaminhada ao longo dos vários nós, utilizando python sockets tendo como base uma arquitetura cliente-servidor. Poderão ser adicionados à rede ad-hoc, os sensores necessários (ou possíveis) para abranger a área em causa. No nosso caso foi usando apenas um sensor, para efeitos de simplicidade de implementação.
 
-### Repository Content
-
 ### How to run:
 
 1) Ligar um PC, para servir de PC-Server (servidor do sistema);
