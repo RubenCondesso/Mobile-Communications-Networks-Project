@@ -1,0 +1,4 @@
+Open /etc/rc.local and put (before exit 0): 
+
+	#para lançar o socket automaticamente
+	python /home/pi/client.py
